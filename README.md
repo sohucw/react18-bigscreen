@@ -2,14 +2,9 @@
 ## 一、项目描述
 
 - 本项目是基于 React、zustand、DataV、ECharts 框架的 " **数据大屏项目** "。支持数据动态刷新渲染、屏幕适配、数据请求模拟、局部样式、图表自由替换/复用等功能。与旧版的区别在于使用了函数式编程，旧版则使用了Class写法。
-- [**React Class写法版本请点击这里查看**](https://gitee.com/MTrun/react-big-screen)
-- [**Vue3 版本请点击这里查看，使用 Hooks+TypeScript 实现，全新内容等你探索!**](https://gitee.com/MTrun/vue-big-screen-plugin)
-- [**Vue2 版本请点击这里查看，也很不错的(o ﾟ v ﾟ)ノ**](https://gitee.com/MTrun/big-screen-vue-datav)
 - 项目环境：react^18.2.0、vite^5.2.0、npm^9.8.1、node^18.18, zustand^4.5.2。
-- 请拉取 master 分支的代码，其余是开发分支。
-- 需要其它地图数据的，请查看我的其它项目（有一个地图合集）
 
-友情链接：
+技术说明：
 
 1.  [React 官方文档](https://react.docschina.org/docs/introducing-jsx.html)
 2.  [zustand官方文档](https://zustand-demo.pmnd.rs/)
